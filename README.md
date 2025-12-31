@@ -64,6 +64,10 @@ imdb-movie-analysis/
 │ └── plots/
 └── README.md
 
+## Demo
+![Program Output](ratings_hist.png)
+![Program Output](votes_vs_rating.png)
+
 ## What I Learned
 - Working with external APIs
 - Building a full data analysis pipeline
